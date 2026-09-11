@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @huetranmilk
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# hi, i'm huemilk
 
-<!---
-huetranmilk/huetranmilk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+just a developer who likes building things and learning along the way.
+
+### about me
+- currently exploring programming and working on small side projects in my free time
+- always open to learning new stuff
+
+### tech stack
+- python
+- javascript
+- git
+- linux
+
+### projects
+still early days here. more will show up when they're ready.
+
+feel free to say hi if you want.
